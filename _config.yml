@@ -17,7 +17,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.ouazad.com" # the base hostname & protocol for your site
 twitter_username: amine_ouazad
 github_username:  aouazad
-remote_theme: thelehhman/texture
 theme: jekyll-theme-minimal
 
 # Build settings

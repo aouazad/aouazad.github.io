@@ -17,7 +17,18 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.ouazad.com" # the base hostname & protocol for your site
 twitter_username: amine_ouazad
 github_username:  aouazad
-remote_theme: thelehhman/plainwhite-jekyll
+remote_theme: thelehhman/texture
+theme: texture
 
 # Build settings
 markdown: kramdown
+texture:
+  title: Amine Ouazad
+  tagline: Economist. Educator.
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    twitter: amine_ouazad
+    github: aouazad
+    linkedIn: in/aouazad
+    
